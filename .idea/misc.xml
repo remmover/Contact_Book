@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="executionMode" value="BINARY" />
+    <option name="pathToExecutable" value="C:\Users\Gyrocopter_UA\AppData\Local\Programs\Python\Python311\Scripts\black.exe" />
+    <option name="sdkUUID" value="3c4f80cb-9264-44b3-b879-88b0df2dae1d" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Poetry (fastapi_unittest)" project-jdk-type="Python SDK" />
+</project>
